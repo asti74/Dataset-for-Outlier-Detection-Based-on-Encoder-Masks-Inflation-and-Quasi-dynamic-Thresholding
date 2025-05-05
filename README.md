@@ -19,6 +19,7 @@ The processed data used for building the model is summarized as follows:
 - *SmsIn*, *SmsOut*, *CallIn*, *CallOut*, and *Internet* are all variables of interest used to detect outliers that contain continuous values.
 
 **[A]** https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EGZHFV&version=1.3&selectTab=termsTab
+
 DOI of the original paper: Barlacchi, G.; De Nadai, M.; Larcher, R.; Casella, A.; Chitic, C.; Torrisi, G.; Antonelli, F.; Vespignani, A.; Pentland, A.; Lepri, B. A multi-source dataset of urban life in the city of Milan and the Province of Trentino. Scientific Data 2015, 2, 1–15.
 
 
